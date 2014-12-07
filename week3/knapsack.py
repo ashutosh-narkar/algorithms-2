@@ -9,7 +9,7 @@ Input contains items in a knapsack with an associated value and weight
 
 import os
 import copy
-FILE_NAME = os.path.expanduser('coursera/algorithms2/week3/knapsack1.txt')
+FILE_NAME = os.path.expanduser('~/coursera/algorithms2/week3/knapsack1.txt')
 
 
 def read_input(_file):

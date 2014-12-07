@@ -4,5 +4,5 @@ Algorithms: Design and Analysis - Part 2
 Projects and Applications from the **Algorithms: Design and Analysis - Part 2** course
 
 * Week 1- Prim's Minimum Spanning Tree Algorithm and Greedy job scheduling Algorithm
-* Week 3- The Knapsack Problem
+* Week 3- The Knapsack Problem and Edit distance
 
